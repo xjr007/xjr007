@@ -5,20 +5,19 @@
   I am a junior software engineer who has completed a 6 month web and software development course at [Salesian Life Choices](https://www.lifechoices.co.za/academy/coding) Coding Academy.
   
   # I have programmed in the following:
-   Web developement:
-    - ReactJS
-    - JS
-    - Sass
-    - HTML5
-    - MongoDB
-    - ExpressJS
-    - NodeJS
-   Software development:
-    - Python
-    - mySQL
+   ## Web developement:
+      ReactJS
+      JS
+      Sass
+      HTML5
+      MongoDB
+      ExpressJS
+      NodeJS
+   ## Software development:
+      Python
+      mySQL
     
-    Currently learning:
-      - Java
+    Currently learning: Java
 
    <!--
 ![](https://simpleicons.org/icons/html5.svg | width=50)
