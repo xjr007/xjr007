@@ -7,7 +7,7 @@
   I am a junior software engineer who has completed a 6 month web and software development course at [Salesian Life Choices](https://www.lifechoices.co.za/academy/coding) Coding Academy.
   
   ## I have programming experience in the following languages:
-   ![alt text](https://simpleicons.org/icons/html5.svg =250x250)
+   ![](https://simpleicons.org/icons/html5.svg | width=50)
     
 
 
