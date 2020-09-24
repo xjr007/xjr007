@@ -1,8 +1,6 @@
 ![Header](https://github.com/xjr007/xjr007/blob/master/header.png)
 
-## Hey there 😁!
-
-# A little about me...
+# A little about me
 
   I am a junior software engineer who has completed a 6 month web and software development course at [Salesian Life Choices](https://www.lifechoices.co.za/academy/coding) Coding Academy.
   
