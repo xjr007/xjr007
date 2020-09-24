@@ -6,9 +6,21 @@
 
   I am a junior software engineer who has completed a 6 month web and software development course at [Salesian Life Choices](https://www.lifechoices.co.za/academy/coding) Coding Academy.
   
-  ## I have programming experience in the following:
-   <img src="https://simpleicons.org/icons/html5.svg" alt="html5" width="32px" height="32px" color="yellow"> <img src="https://simpleicons.org/icons/javascript.svg" alt="JS" width="32px" height="32px">  <img src="https://simpleicons.org/icons/sass.svg" alt="SASS" width="32px" height="32px">  <img src="https://simpleicons.org/icons/react.svg" alt="ReactJS" width="32px" height="32px">  <img src="https://simpleicons.org/icons/mongodb.svg" alt="MongoDB" width="32px" height="32px">
-  
+# I have programmed in the following:
+   ## Web developement:
+    - ReactJS
+    - JS
+    - Sass
+    - HTML5
+    - MongoDB
+    - ExpressJS
+    - NodeJS
+   ## Software development:
+    - Python
+    - mySQL
+    
+    Currently learning:
+      - Java
 
    <!--
 ![](https://simpleicons.org/icons/html5.svg | width=50)
