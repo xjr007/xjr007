@@ -3,6 +3,9 @@
 # About Me
 
   I am a junior software engineer and web developer who has completed a 6 month web and software development course at [Salesian Life Choices](https://www.lifechoices.co.za/academy/coding) Coding Academy.
+  
+  Here is a link to my portfolio hosted on GitHub Pages https://xjr007.github.io/website-portfolio/
+  
    ## Web developement:
       ReactJS
       JS
