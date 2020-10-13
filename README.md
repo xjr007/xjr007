@@ -2,7 +2,7 @@
 
 # About Me
 
-  I am a junior software engineer who has completed a 6 month web and software development course at [Salesian Life Choices](https://www.lifechoices.co.za/academy/coding) Coding Academy.
+  I am a junior software engineer and web developer who has completed a 6 month web and software development course at [Salesian Life Choices](https://www.lifechoices.co.za/academy/coding) Coding Academy.
    ## Web developement:
       ReactJS
       JS
