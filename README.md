@@ -2,9 +2,9 @@
 
 # Bio
 
-  I am a junior software engineer and web developer who has completed a 6 month web and software development course at [Salesian Life Choices](https://www.lifechoices.co.za/academy/coding) Coding Academy.
+  I am a junior web and software developer who has completed a 6 month web and software development course at [Salesian Life Choices](https://www.lifechoices.co.za/academy/coding) Coding Academy. I have built front-end applications using React, JavaScript, HTML5, CSS/SCSS; software programs using Python and MySQL; and full-stack (MERN Stack) applications using React, Node, Express and MongoDB. All have can be found here on my github profile.
   
-  Here is a link to my portfolio hosted on GitHub Pages https://xjr007.github.io/website-portfolio/
+  Here is a link to my portfolio hosted on GitHub Pages https://xjr007.github.io/website-portfolio/.
   
    ## Web developement:
       ReactJS
