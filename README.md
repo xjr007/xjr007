@@ -1,6 +1,7 @@
+Welcome to my Github profile.
 
+Here you'll find projects built on Java, Python, ReactJS, MERN (MongoDB, ExpressJS, ReactJS, NodeJS) Stack and SQLite.
 
-   <!--
-![](https://simpleicons.org/icons/html5.svg | width=50)
--->
-    
+Certification:
+- Oracle Certified Professional Java SE 11 Programmer (Click here to view my badge)
+- Oracle Certified Associate Java SE 8 Programmer (Click here to view my badge)
