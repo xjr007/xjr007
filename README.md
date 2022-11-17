@@ -24,10 +24,7 @@
 - SQL Server
 - SQL Server DBMS
 - jQuery
-- MS Office Word
-- MS Office Excel
-- MS Office PowerPoint
-- Ubuntu Linux
+- Linux
 
 ###### Certification:
 - Oracle Certified Professional Java SE 11 Programmer [Click here to view my badge](https://www.credly.com/badges/41aa7e8d-4015-4c00-95c2-033a2f53e2c6)
