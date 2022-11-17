@@ -7,10 +7,8 @@
 - [Oracle Certified Associate Java SE 8 Programmer](https://www.credly.com/badges/8a1d7904-19c4-4607-b7df-cd1e6d4496f4)
 
 # Languages
-###### Home Language
-- Java
-###### Additional Languages
-- Java
+###### Home Language: Java
+###### Additional:
 - C#
 - Python
 - PHP
