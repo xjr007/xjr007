@@ -4,11 +4,11 @@
 ###### Home Language: Java
 
 ###### Additional Languages:
-Java
-C#
-Python
-PHP
-JavaScript
+- Java
+- C#
+- Python
+- PHP
+- JavaScript
 Typescript
 Android
 .NET
