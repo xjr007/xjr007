@@ -1,6 +1,6 @@
 # Welcome to my Github profile.
 
-## Here you'll find projects built on:
+## These projects have been developed with:
 - Java
 - Python
 - ReactJS
