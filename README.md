@@ -1,4 +1,4 @@
-![ProfileCard](https://user-images.githubusercontent.com/61458630/202387127-5f5d7ad5-3c3f-4231-aaf1-1ec17ff43393.png)
+# Aaqiel Behardien
 
 # Certifications
 [![02_Java-SE-11-Developer_Professional__1_](https://user-images.githubusercontent.com/61458630/202387392-bfa8ff61-6a48-4825-be4b-28f966969c3e.png)](https://www.credly.com/badges/41aa7e8d-4015-4c00-95c2-033a2f53e2c6)
