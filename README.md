@@ -1,4 +1,4 @@
-[Aaqiel Behardien - Software Engineer](https://github.com/xjr007/xjr007/blob/master/ProfileCard.png)
+![ProfileCard](https://user-images.githubusercontent.com/61458630/202387127-5f5d7ad5-3c3f-4231-aaf1-1ec17ff43393.png)
 
 # Role
 - Software Developer
