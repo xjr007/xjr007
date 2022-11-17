@@ -1,8 +1,5 @@
 ![ProfileCard](https://user-images.githubusercontent.com/61458630/202387127-5f5d7ad5-3c3f-4231-aaf1-1ec17ff43393.png)
 
-# Role
-- Software Developer
-
 # Certifications
 ###### 2021
 - [Oracle Certified Professional Java SE 11 Programmer](https://www.credly.com/badges/41aa7e8d-4015-4c00-95c2-033a2f53e2c6)
