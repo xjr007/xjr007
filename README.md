@@ -1,5 +1,5 @@
 ## Aaqiel Behardien
-**- Software Developer**
+**Software Developer**
 
 ###### These projects have been developed with:
 - Java
