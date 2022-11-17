@@ -11,23 +11,23 @@
 - Java
 ###### Additional:
 - C#
+- .NET
+- Android
 - Python
 - PHP
-- JavaScript
-- Typescript
-- Android
-- .NET
 - React
-- Craft CMS
-- Express JS
-- Node JS
-- HTML
-- CSS/SCSS
 - MongoDB
 - MySQL
 - SQLite
 - SQL Server
 - SQL Server DBMS
+- JavaScript
+- Typescript
 - jQuery
+- Express JS
+- Node JS
+- Craft CMS
+- HTML
+- CSS/SCSS
 - Linux
 
