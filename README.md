@@ -2,7 +2,9 @@
 
 # Certifications
 ###### 2021
+![02_Java-SE-11-Developer_Professional__1_](https://user-images.githubusercontent.com/61458630/202387392-bfa8ff61-6a48-4825-be4b-28f966969c3e.png)
 - [Oracle Certified Professional Java SE 11 Programmer](https://www.credly.com/badges/41aa7e8d-4015-4c00-95c2-033a2f53e2c6)
+![Oracle_Associates_Badge__1_](https://user-images.githubusercontent.com/61458630/202387416-d1161cb3-87e6-4d89-9cc8-81fba175d3b3.png)
 - [Oracle Certified Associate Java SE 8 Programmer](https://www.credly.com/badges/8a1d7904-19c4-4607-b7df-cd1e6d4496f4)
 
 # Languages
